@@ -1,0 +1,6 @@
+register fomr: 
+        #input box - blur
+        #button - moveup
+mouseover
+mouseout
+onclick
